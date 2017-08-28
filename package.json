@@ -1,0 +1,35 @@
+{
+  "name": "unlock-cli",
+  "version": "0.0.1",
+  "description": "Unlock your system from the command-line",
+  "license": "MIT",
+  "repository": "s1ndr3s0rhus/unlock-cli",
+  "author": {
+    "name": "s1ndr3s 0rhus",
+    "email": "s1ndr3s0rhus@gmail.com",
+  },
+  "bin": {
+    "unlock": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "unlock",
+    "lock",
+    "system",
+    "macos",
+    "mac",
+    "linux",
+    "windows",
+    "screen",
+    "os",
+    "login",
+    "password"
+  ],
+  "dependencies": {
+    "dialog": "latest"
+  }
+}
